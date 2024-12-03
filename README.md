@@ -16,20 +16,14 @@ src="https://cardivo.vercel.app/api?name=Vishwajitji&description=Hi,%20i%27m%20a
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Tohid+Khan;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&multiline=true&width=435&lines=%F0%9F%98%87+I+am+Smart+Boy+%F0%9F%98%87;%F0%9F%95%B9%F0%9F%96%B2%F0%9F%92%BB++Don't+Follow+me++%F0%9F%92%BB+%F0%9F%95%B9%F0%9F%96%B2;You+are+Hacked)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi 👋, My name is Vishwajit</h1>
 <h3 align="center">I'm a student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishwajitji&label=Profile%20views&color=0e75b6&style=flat" alt="Vishwajitji" /> </p>
 
-<p align="left"><a href="https://github.com/Vishwajitji/"><img title="Followers" src="https://img.shields.io/github/followers/Vishwajitji?color=blue&style=flat-square"></a>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishwajitji" alt="Vishwajitji" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/RV4685291395252" target="blank"><img src="https://img.shields.io/twitter/follow/RV4685291395252?logo=twitter&style=for-the-badge" alt="RV4685291395252" /></a> </p>
 
 - 📫 How to reach me *👇*
 
