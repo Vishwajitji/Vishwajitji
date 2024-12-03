@@ -1,13 +1,16 @@
-[![Vishwajitji](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Tohid+Khan;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+India-Haryana;Nice+to+Meet+You)](https://github.com/Tohidkhan6332)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center">
-  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
-<p align="center"
+   
+   [![Vishwajitji](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&width=480&lines=Hello+everyone;My+name+is+VISHWAJIT;I+am+from+India+(Uttar+Pradesh)+;Nice+to+meet+you)](https://git.io/typing-svg)
 
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=Vishwajitji&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/005849c39bb8d2428a325.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
+
+
+
+
+<a><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUDjKKyspggFicNP1P4RA4PqMYZQ6QWmFLO6PvL9lRmeT-XRQh44yEJ2WRP3g_R8r1QtKQrvYwxTRP80F4m5YYXXurNZN7dSGMvgP2tBaumlQk1syV9Jln30YakMgvJNrSFCCtM613_lCYkL2RIv8ytBnDNsRZ2XhMMazAt0pbGLFyKcOFWo8AxeM_ZI2J/s360/e855be11-4c43-4934-9c6b-78080864ae7b.gif'/></a>
+<a><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUxNHPPDu0DIQlY1gg-hR9l07zEHz28pEvRwWJKJN5bzZ8lB-qb418WhBxnLPJVlMjx30kb1pdb9AEIgX39NUIBXTS3W8JoX4SkUXSoIgFosaOh6I2NhMqxICTb6wf_-B2bLaYA2NaQxpjIWtNM5vYSVtY8mrWrcexHuoNlWoEZBn11eB-UbaJiCyE5kH/s360/c8495f92-c98a-417f-95da-e3efc2a333a7.gif'/></a>
+
+
+
 
 <p align="center"> 
   Visitor Count<br>
