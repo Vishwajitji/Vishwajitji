@@ -18,9 +18,9 @@
 </p>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=480&size=30&pause=1000&color=FF00BE&width=435&lines=Hello%2C+I+am+Smart+Boy;Don't+Follow+Me;You+are+Hacked)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&multiline=true&width=435&lines=%F0%9F%98%87+I+am+Smart+Boy+%F0%9F%98%87;%F0%9F%95%B9%F0%9F%96%B2%F0%9F%92%BB++Don't+Follow+me++%F0%9F%92%BB+%F0%9F%95%B9%F0%9F%96%B2;You+are+Hacked)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi 👋, My name is Vishwajit</h1>
@@ -40,12 +40,10 @@
  
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohidkhan6332&show_icons=true&locale=en&layout=compact" alt="tohidkhan6332" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwajitji&show_icons=true&locale=en&layout=compact" alt="Vishwajitji" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tohidkhan6332&show_icons=true&locale=en" alt="tohidkhan6332" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Vishwajitji&show_icons=true&locale=en" alt="Vishwajitji" /></p>
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidkhan6332&" alt="tohidkhan6332" /></p>
 
 
 
