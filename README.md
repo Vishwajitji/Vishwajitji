@@ -254,17 +254,17 @@ Audio
 
 ---
 
-# ⚡ TOHID KHAN INFO
+# ⚡ Vishwajit INFO
 
 ℹ️  <a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/TOHID INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 
-- 😊 I’m Tohid khan
+- 😊 I’m Vishwajit
 - 👦🏻 Age is unknown
 - 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
 - 🌱 Currently a student at unknown
 - 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
 - 📫 Email me via tohidkhan9050482152@gmail.com to contact
-- 🤩 Follow me on Instagram https://www.instagram.com/tohidkhan6332/
-- 💬 Text me on telegram https://t.me/tohid_mewati
-- ✉️ Text me on WhatsApp https://wa.me/message/O6KWTGOGTVTYO1
+- 🤩 Follow me on Instagram https://www.instagram.com/smartboy.coming?igsh=cTMzbnQ3dmk4eDJj
+- 💬 Text me on telegram https://t.me/Rv99482
+- ✉️ Text me on WhatsApp https://api.whatsapp.com/send/?phone=919559099482&text&type=phone_number&app_absent=0
