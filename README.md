@@ -30,9 +30,12 @@
 
 ## My Programming Stats
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=03F700&center=true&vCenter=true&width=320&lines=%F0%9F%98%87++Welcome++%F0%9F%98%87;I+Love+My+India;You+Are+Hacked;Nice+To+Meet+You)](https://git.io/typing-svg)
+
+
 <p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
   
- 
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwajitji&show_icons=true&locale=en&layout=compact" alt="Vishwajitji" /></p>
@@ -44,7 +47,7 @@
 
 
 
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Tohidkhan6332&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
+| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Tohidkhan6332&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> 
 
 
 
