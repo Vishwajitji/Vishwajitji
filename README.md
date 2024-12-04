@@ -223,8 +223,6 @@ Audio
 
 # ⚡ Vishwajit INFO
 
-ℹ️  <a href="https://github.com/Vishwajitji/Vishwajit-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/TOHID INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
-
 
 - 😊 I’m Vishwajit
 - 👦🏻 Age is unknown
