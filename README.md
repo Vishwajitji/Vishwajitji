@@ -208,16 +208,16 @@ Audio
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/tohidkhan6332/TOHID-KHAN">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-KHAN&theme=dark&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Vishwajitji/RV">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishwajitji&repo=Vishwajit&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/tohidkhan6332/TOHID_KHAN-V9">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_KHAN-V9&theme=dark&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Vishwajitji/Hacker-V9">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishwajitji&repo=RV Hacker-V9&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Tohidkhan6332/tg-contact-form">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=tg-contact-form&theme=dark&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Vishwajitji/tg-contact-form">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishwajitji&repo=tg-contact-form&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -226,7 +226,7 @@ Audio
 
 # 📫 How to reach me:
 
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917849917350?text=Hello+𝕄𝕣+𝕋𝕠𝕙𝕚𝕕)
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919559099482?text=Hello+Hacker)
 
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tohid_mewati) 
 
@@ -236,19 +236,19 @@ Audio
   </div>
 
 <p align="left">
-<a href="https://twitter.com/tohidkh31662231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohidkh31662231" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tohidkhan6332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohid khan" height="30" width="40" /></a>
-<a href="https://instagram.com/Tohidkhan6332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tohidkhan6332" height="30" width="40" /></a>
+<a href="https://x.com/RV4685291395252/status/1844200187465773503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/RV4685291395252/status/1844200187465773503" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1Adjrcrwxb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Vishwajit Kushwaha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/smartboy.coming?igsh=cTMzbnQ3dmk4eDJj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vishwajitji" height="30" width="40" /></a>
 </p>
 
  <div id="badges" align="center">
-    <a href="https://www.github.com/Tohidkhan6332" target="_blank">
+    <a href="https://www.github.com/Vishwajitji" target="_blank">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
     </a>
-    <a href="https://www.linkedin.com/in/tohid-khan-3b3a69307" target="_blank">
+    <a href="https://in.linkedin.com/in/ravi-kumar-bb8ba92a8" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://www.youtube.com/@Tohidkhan_6332" target="_blank">
+    <a href="https://www.youtube.com/@onlinecoursebestchanal" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
   </div>
@@ -257,7 +257,7 @@ Audio
 
 # ⚡ Vishwajit INFO
 
-ℹ️  <a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/TOHID INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+ℹ️  <a href="https://github.com/Vishwajitji/Vishwajit-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/TOHID INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 
 - 😊 I’m Vishwajit
@@ -265,7 +265,7 @@ Audio
 - 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
 - 🌱 Currently a student at unknown
 - 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
-- 📫 Email me via tohidkhan9050482152@gmail.com to contact
+- 📫 Email me via rraj6741660@gmail.com to contact
 - 🤩 Follow me on Instagram https://www.instagram.com/smartboy.coming?igsh=cTMzbnQ3dmk4eDJj
 - 💬 Text me on telegram https://t.me/Rv99482
 - ✉️ Text me on WhatsApp https://api.whatsapp.com/send/?phone=919559099482&text&type=phone_number&app_absent=0
