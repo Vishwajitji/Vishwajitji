@@ -28,11 +28,6 @@
 
 
 
-- 📫 How to reach me *👇*
-
-<a href="https://github.com/Vishwajitji/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/CONTACT WITH ME-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
-
-
 ## My Programming Stats
 
 <p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
@@ -66,19 +61,6 @@
   </a>
 </p>
 
-
-
-
-
-- 💫 I’m currently working on [TOHID-MD WHATSAPP BOT](https://github.com/Tohidkhan6332/TOHID-MD)
-
-- 📫 [How to reach me!](https://github.com/Tohidkhan6332/TOHID-INFO#-how-to-reach-me)
-
-- 📄 Know about my [experiences](https://github.com/tohidkhan6332?tab=repositories)
-
-- 👯 I’m looking to collaborate on **JavaScript projects** 
-
-- 🌱 Fun fact **I always wear my favorite pair of quirky socks while programming 😂*
 
 ---
 
@@ -202,23 +184,7 @@ Audio
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<h3>Some of my Projects:</h3>
-
-<a href="https://github.com/tohidkhan6332/TOHID_MD">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/Vishwajitji/RV">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishwajitji&repo=Vishwajit&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/Vishwajitji/Hacker-V9">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishwajitji&repo=RV Hacker-V9&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/Vishwajitji/tg-contact-form">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishwajitji&repo=tg-contact-form&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
+<h3>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -228,7 +194,7 @@ Audio
 
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919559099482?text=Hello+Hacker)
 
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tohid_mewati) 
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Rv99482) 
 
 ---
 
