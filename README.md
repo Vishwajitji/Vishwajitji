@@ -1,6 +1,16 @@
 
-   
-   [![Vishwajitji](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&width=480&lines=Hello+everyone;My+name+is+VISHWAJIT;I+am+from+India+(Uttar+Pradesh)+;Nice+to+meet+you)](https://git.io/typing-svg)
+ <p align="center">
+  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
+<p align="center"
+
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://blogger.googleusercontent.com/img/a/AVvXsEjKJE35baqUfHK_30VA3kgzvoBn2P0ejulETazoiZdyYkvCuUl5Z8uw8C0zBD03C0Pyg6Hqxt0Z5md4de3mBIKoBZtJ4ns4hKZ71X9rsbzOpJlzqZqatEUknHGfKW6Us5FDpl5q48WExeN4FR_csq-pyncjw1fQ0bl2-2xP4lLnY-L8saho9FMKo8lIBJAQ?v=4&backgroundColor=%23ecf0f1&github=Vishwajitji&pattern=leaf&colorPattern=%23eaeaea"/>
+
+<p align="center"> 
+ 
+ 
+ 
+ [![Vishwajitji](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&width=480&lines=Hello+everyone;My+name+is+VISHWAJIT;I+am+from+India+(Uttar+Pradesh)+;Nice+to+meet+you)](https://git.io/typing-svg)
 
 
 
