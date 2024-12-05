@@ -4,15 +4,14 @@
 <p align="center"
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://blogger.googleusercontent.com/img/a/AVvXsEjKJE35baqUfHK_30VA3kgzvoBn2P0ejulETazoiZdyYkvCuUl5Z8uw8C0zBD03C0Pyg6Hqxt0Z5md4de3mBIKoBZtJ4ns4hKZ71X9rsbzOpJlzqZqatEUknHGfKW6Us5FDpl5q48WExeN4FR_csq-pyncjw1fQ0bl2-2xP4lLnY-L8saho9FMKo8lIBJAQ?v=4&backgroundColor=%23ecf0f1&github=Vishwajitji&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=𝕄ℝ-VISHWAJIT&description=Hi,%20i%27m%20a%20Student%20and%20programer%20Nice%20to%20meet%20you%20👋&image=https://blogger.googleusercontent.com/img/a/AVvXsEjKJE35baqUfHK_30VA3kgzvoBn2P0ejulETazoiZdyYkvCuUl5Z8uw8C0zBD03C0Pyg6Hqxt0Z5md4de3mBIKoBZtJ4ns4hKZ71X9rsbzOpJlzqZqatEUknHGfKW6Us5FDpl5q48WExeN4FR_csq-pyncjw1fQ0bl2-2xP4lLnY-L8saho9FMKo8lIBJAQ?v=4&backgroundColor=%23ecf0f1&github=Vishwajitji&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <p align="center"> 
  
  
+
  
  [![Vishwajitji](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&width=480&lines=Hello+everyone;My+name+is+VISHWAJIT;I+am+from+India+(Uttar+Pradesh)+;Nice+to+meet+you)](https://git.io/typing-svg)
-
-
 
 
 
@@ -20,17 +19,16 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 <a><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUxNHPPDu0DIQlY1gg-hR9l07zEHz28pEvRwWJKJN5bzZ8lB-qb418WhBxnLPJVlMjx30kb1pdb9AEIgX39NUIBXTS3W8JoX4SkUXSoIgFosaOh6I2NhMqxICTb6wf_-B2bLaYA2NaQxpjIWtNM5vYSVtY8mrWrcexHuoNlWoEZBn11eB-UbaJiCyE5kH/s360/c8495f92-c98a-417f-95da-e3efc2a333a7.gif'/></a>
 
 
-
-
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Vishwajitji/count.svg" />
 </p>
 
-
+ <p align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=480&size=30&pause=1000&color=FF00BE&width=435&lines=Hello%2C+I+am+Smart+Boy;Don't+Follow+Me;You+are+Hacked)](https://git.io/typing-svg)
 
-
+<p align="center">
 
 
 <h1 align="center">Hi 👋, My name is Vishwajit</h1>
