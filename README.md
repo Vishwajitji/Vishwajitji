@@ -225,7 +225,7 @@ Audio
     <a href="https://in.linkedin.com/in/ravi-kumar-bb8ba92a8" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://www.youtube.com/@onlinecoursebestchanal" target="_blank">
+    <a href="https://www.youtube.com/@Onlinecoursebestchanal?sub_confirmation=1" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
   </div>
