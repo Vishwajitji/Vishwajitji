@@ -231,12 +231,12 @@ Audio
 # ⚡ Vishwajit INFO
 
 
-- 😊 I’m Vishwajit
+- 😊 I’m Ravi Kumar
 - 👦🏻 Age is unknown
 - 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
 - 🌱 Currently a student at unknown
 - 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
-- 📫 Email me via rraj6741660@gmail.com to contact
+- 📫 Email me via  to contact  rvanonymous@proton.me
 - 🤩 Follow me on Instagram https://www.instagram.com/smartboy.coming?igsh=cTMzbnQ3dmk4eDJj
 - 💬 Text me on telegram https://t.me/Rv99482
-- ✉️ Text me on WhatsApp https://api.whatsapp.com/send/?phone=919559099482&text&type=phone_number&app_absent=0
+- ✉️ Text me on WhatsApp  https://whatsapp.com/channel/0029Vavg48o3GJOtZPbn1X3F
