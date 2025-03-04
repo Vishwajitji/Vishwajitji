@@ -1,7 +1,6 @@
 
  <p align="center">
-  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
-<p align="center"
+
 
 <img align="center" height="auto"
 src="https://cardivo.vercel.app/api?name=𝕄ℝ-VISHWAJIT&description=Hi,%20i%27m%20a%20Student%20and%20programer%20Nice%20to%20meet%20you%20👋&image=https://blogger.googleusercontent.com/img/a/AVvXsEjKJE35baqUfHK_30VA3kgzvoBn2P0ejulETazoiZdyYkvCuUl5Z8uw8C0zBD03C0Pyg6Hqxt0Z5md4de3mBIKoBZtJ4ns4hKZ71X9rsbzOpJlzqZqatEUknHGfKW6Us5FDpl5q48WExeN4FR_csq-pyncjw1fQ0bl2-2xP4lLnY-L8saho9FMKo8lIBJAQ?v=4&backgroundColor=%23ecf0f1&github=Vishwajitji&pattern=leaf&colorPattern=%23eaeaea"/>
@@ -14,9 +13,6 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-VISHWAJIT&description=Hi,%20i%2
  [![Vishwajitji](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&width=480&lines=Hello+everyone;My+name+is+VISHWAJIT;I+am+from+India+(Uttar+Pradesh)+;Nice+to+meet+you)](https://git.io/typing-svg)
 
 
-
-<a><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUDjKKyspggFicNP1P4RA4PqMYZQ6QWmFLO6PvL9lRmeT-XRQh44yEJ2WRP3g_R8r1QtKQrvYwxTRP80F4m5YYXXurNZN7dSGMvgP2tBaumlQk1syV9Jln30YakMgvJNrSFCCtM613_lCYkL2RIv8ytBnDNsRZ2XhMMazAt0pbGLFyKcOFWo8AxeM_ZI2J/s360/e855be11-4c43-4934-9c6b-78080864ae7b.gif'/></a>
-<a><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUxNHPPDu0DIQlY1gg-hR9l07zEHz28pEvRwWJKJN5bzZ8lB-qb418WhBxnLPJVlMjx30kb1pdb9AEIgX39NUIBXTS3W8JoX4SkUXSoIgFosaOh6I2NhMqxICTb6wf_-B2bLaYA2NaQxpjIWtNM5vYSVtY8mrWrcexHuoNlWoEZBn11eB-UbaJiCyE5kH/s360/c8495f92-c98a-417f-95da-e3efc2a333a7.gif'/></a>
 
 
 <p align="center"> 
@@ -31,7 +27,7 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-VISHWAJIT&description=Hi,%20i%2
 <p align="center">
 
 
-<h1 align="center">Hi 👋, My name is Vishwajit</h1>
+<h1 align="center">Hi 👋, My name is Ravi Kumar </h1>
 <h3 align="center">I'm a student</h3>
 
 
